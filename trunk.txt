@@ -1,0 +1,1 @@
+É o principal tronco de desenvolvimento, seguindo desde o início do projeto até o presente. É nele que o projeto deve se basear sempre.
