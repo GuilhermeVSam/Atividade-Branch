@@ -1,0 +1,1 @@
+Uma branch serve para isolar partes do código. Em geral, é usado para isolar o que está sendo desenvolvido do que está sendo publicado.
