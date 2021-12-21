@@ -1,3 +1,3 @@
-# Teste-Branch
+# Trunk
 
-* Branches são como galhos de um tronco
+* Trunk é a base do código
